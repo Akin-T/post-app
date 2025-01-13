@@ -1,4 +1,3 @@
-
 import Header from "../components/header/Header.jsx";
 import StatisticCard from "../components/statistics/StatisticCard.jsx";
 const StatisticPage = () => {
@@ -34,13 +33,6 @@ const StatisticPage = () => {
               img={"images/product.png"}
             />
           </div>
-           
-           
-
-
-
-
-
         </div>
       </div>
     </>
